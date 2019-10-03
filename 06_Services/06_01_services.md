@@ -1,4 +1,3 @@
-![](https://gaforgithub.azurewebsites.net/api?repo=CKAD-exercises/services&empty)
 # Services and Networking (13%)
 
 ### Create a pod with image nginx called nginx and expose its port 80

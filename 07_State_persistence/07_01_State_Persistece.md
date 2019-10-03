@@ -1,4 +1,3 @@
-![](https://gaforgithub.azurewebsites.net/api?repo=CKAD-exercises/state&empty)
 # State Persistence (8%)
 
 kubernetes.io > Documentation > Tasks > Configure Pods and Containers > [Configure a Pod to Use a Volume for Storage](https://kubernetes.io/docs/tasks/configure-pod-container/configure-volume-storage/)

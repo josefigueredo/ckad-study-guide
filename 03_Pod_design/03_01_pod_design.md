@@ -1,4 +1,3 @@
-![](https://gaforgithub.azurewebsites.net/api?repo=CKAD-exercises/pod_design&empty)
 # Pod design (20%)
 
 ## Labels and annotations

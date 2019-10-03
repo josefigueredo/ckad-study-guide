@@ -1,4 +1,3 @@
-![](https://gaforgithub.azurewebsites.net/api?repo=CKAD-exercises/configuration&empty)
 # Configuration (18%)
 
 ## ConfigMaps
