@@ -1,16 +1,3 @@
----
-title: Use Port Forwarding to Access Applications in a Cluster
-content_template: templates/task
-weight: 40
----
-
-This page shows how to use `kubectl port-forward` to connect to a Redis
-server running in a Kubernetes cluster. This type of connection can be useful
-for database debugging.
-
-* Install [redis-cli](http://redis.io/topics/rediscli).
-
-
 ## Creating Redis deployment and service
 
 1. Create a Redis deployment:
