@@ -1,20 +1,3 @@
----
-title: kubectl Cheat Sheet
-reviewers:
-- erictune
-- krousey
-- clove
-content_template: templates/concept
-card:
-  name: reference
-  weight: 30
----
-
-See also: [Kubectl Overview](/docs/reference/kubectl/overview/) and [JsonPath Guide](/docs/reference/kubectl/jsonpath).
-
-This page is an overview of the `kubectl` command.
-
-
 # kubectl - Cheat Sheet
 
 ## Kubectl Autocomplete

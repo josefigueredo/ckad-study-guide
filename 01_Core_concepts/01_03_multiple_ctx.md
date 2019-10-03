@@ -1,22 +1,3 @@
----
-title: Configure Access to Multiple Clusters
-content_template: templates/task
-weight: 30
-card:
-  name: tasks
-  weight: 40
----
-
-
-This page shows how to configure access to multiple clusters by using
-configuration files. After your clusters, users, and contexts are defined in
-one or more configuration files, you can quickly switch between clusters by using the
-`kubectl config use-context` command.
-
-A file that is used to configure access to a cluster is sometimes called
-a *kubeconfig file*. This is a generic way of referring to configuration files.
-It does not mean that there is a file named `kubeconfig`.
-
 ## Define clusters, users, and contexts
 
 Suppose you have two clusters, one for development work and one for scratch work.

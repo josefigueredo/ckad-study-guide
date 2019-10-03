@@ -1,13 +1,3 @@
----
-title: Accessing Clusters
-weight: 20
-content_template: templates/concept
----
-
-
-This topic discusses multiple ways to interact with clusters.
-
-
 ## Accessing for the first time with kubectl
 
 When accessing the Kubernetes API for the first time, we suggest using the

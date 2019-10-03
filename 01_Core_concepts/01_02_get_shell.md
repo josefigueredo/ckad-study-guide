@@ -1,16 +1,3 @@
----
-reviewers:
-- caesarxuchao
-- mikedanese
-title: Get a Shell to a Running Container
-content_template: templates/task
----
-
-
-This page shows how to use `kubectl exec` to get a shell to a
-running Container.
-
-
 ## Getting a shell to a Container
 
 In this exercise, you create a Pod that has one Container. The Container
